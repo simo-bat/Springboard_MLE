@@ -1,1 +1,1 @@
-# Springboard Machine Learning Engineering program Mini Projects
+# Springboard Machine Learning Engineer program Mini Projects
